@@ -1,0 +1,26 @@
+
+
+.r_chandan{
+    border: 1px solid black;
+}
+
+header{
+    height: 100px;
+    border: 1px solid rgb(232, 19, 19);
+
+}
+
+main{
+    min-height: 1000px;
+    border: 1px solid rgb(10, 117, 232);
+
+}
+
+footer{
+    height: 200px;
+    border: 1px solid rgb(143, 228, 6);
+
+}
+.c_text{
+    text-decoration: none;
+}
